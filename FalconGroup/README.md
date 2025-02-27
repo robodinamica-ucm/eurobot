@@ -20,6 +20,7 @@ El Grupo Falcon se encarga del desarrollo y gestión de los sistemas de visión 
 - **Software:**
   - Lenguajes de programación: Python, C++.
   - Bibliotecas de visión artificial: OpenCV, TensorFlow.
+  - https://openmv.io/pages/download?srsltid=AfmBOop7utJ_GXUcvAykdtZn9KXk3rMwR-oapbfW3ubxoH1F9T--7_19
   - Control y simulación: ROS (Robot Operating System), Gazebo/Webots para simulación.
 
 ## Objetivos
