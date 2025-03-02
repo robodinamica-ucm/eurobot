@@ -4,6 +4,11 @@
 
 El Grupo Falcon se encarga del desarrollo y gestión de los sistemas de visión artificial, control y estrategia de movimiento para el proyecto Eurobot 2025. El objetivo es crear un sistema autónomo que permita al robot tomar decisiones en tiempo real, controlar sus movimientos de manera precisa y realizar tareas específicas durante las competiciones.
 
+## FILES
+
+- **Huskylens-arduino-vehicle:** Pruebas de concepto para la comunicación de las Huskylens con Arduino y el control de diferentes vehículos genéricos.
+- **Huskylens-competition**: Pruebas de reconocimiento real de los elementos de la competición Eurobot: orientación en el mapa, aproximación a las estructuras de las gradas...
+
 ## Componentes
 
 - **Visión artificial:** Utilización de cámaras y algoritmos de procesamiento de imágenes para la detección de objetos, obstáculos y objetivos.
