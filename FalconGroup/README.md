@@ -27,7 +27,12 @@ El Grupo Falcon se encarga del desarrollo y gestión de los sistemas de visión 
   - Bibliotecas de visión artificial: OpenCV, TensorFlow.
   - https://openmv.io/pages/download?srsltid=AfmBOop7utJ_GXUcvAykdtZn9KXk3rMwR-oapbfW3ubxoH1F9T--7_19
   - Control y simulación: ROS (Robot Operating System), Gazebo/Webots para simulación.
+## Documentación
 
+- Huskylens: https://learn.dfrobot.com/makelog-308564.html
+- OpenMV Cam H7 Plus: https://docs.openmv.io/index.html
+  https://openmv.io/collections/all-products/products/openmv-cam-h7-plus?variant=31180638224478
+  
 ## Objetivos
 
 1. Implementar un sistema de visión artificial capaz de detectar los objetos necesarios durante la competición.
