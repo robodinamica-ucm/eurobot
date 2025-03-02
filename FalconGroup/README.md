@@ -18,9 +18,9 @@ El Grupo Falcon se encarga del desarrollo y gestión de los sistemas de visión 
 ## Tecnologías
 
 - **Hardware:** 
-  - Cámaras de alta resolución: Huskylens, raspberry py camera
+  - Cámaras de alta resolución con IA integrada: Huskylens, OpenMV Cam H7 Plus
   
-  - Arduino MEGA, esp8266, raspberry pi 2
+  - Arduino MEGA, Arduino UNO, esp8266, raspberry pi 2
 
 - **Software:**
   - Lenguajes de programación: Python, C++.
@@ -29,9 +29,11 @@ El Grupo Falcon se encarga del desarrollo y gestión de los sistemas de visión 
   - Control y simulación: ROS (Robot Operating System), Gazebo/Webots para simulación.
 ## Documentación
 
-- Huskylens: https://learn.dfrobot.com/makelog-308564.html
-- OpenMV Cam H7 Plus: https://docs.openmv.io/index.html
-  https://openmv.io/collections/all-products/products/openmv-cam-h7-plus?variant=31180638224478
+- Huskylens:
+  - https://learn.dfrobot.com/makelog-308564.html
+- OpenMV Cam H7 Plus:
+  - https://docs.openmv.io/index.html
+  - https://openmv.io/collections/all-products/products/openmv-cam-h7-plus?variant=31180638224478
   
 ## Objetivos
 
