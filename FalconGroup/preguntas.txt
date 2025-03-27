@@ -1,0 +1,7 @@
+Buenas noches, no se si deberia preguntar en este chat ya, me indica si tengo que preguntar a alguien en concreto para preguntas de carácter técnico orientativas.
+El caso es que vamos con cierto retraso pues pensábamos utilizar reconocimiento de imágenes con cámaras especiales como la openmv h7 o huskylens. Haciendo pruebas hemos visto que tienen una eficacia reducida y más teniendo en cuenta que normalmente se usa una baja luminosidad en la competición. Podrían darnos algo de orientación para elaborar de forma segura y rápida un sistema de orientación para el robot? Hemos pensado en la opción de usar sensores infrarojos con las lineas del suelo pero en los diagramas del escenario no parecen muy útiles para este propósito.
+
+Por otro lado queríamos preguntar por cómo se espera que se haga el desplegado del cartel: se podría llevar desplegado y simplemente soltarlo para que se enganche en el borde del escenario?
+
+Muchas gracias, un saludo
+
