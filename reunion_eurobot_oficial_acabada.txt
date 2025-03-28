@@ -1,0 +1,50 @@
+30x20x20
+
+
+Compras:
+Cables; 
+Servos de rotacion continua para las SIMAS
+	Utilizados sm90 pero son demasiado lentos
+	>>> 60/0.09
+	666.6666666666667
+	>>> 666.6/360
+	1.8516666666666668
+	>>> 1.85*3.14*6
+	34.854 cm/s
+	Bruno busca nuevos motores.
+	
+2 Drivers de la base movil del robot: 4 motores de la base
+
+El resto de elementos lo controlamos por servos
+Cartel: cinta metrica para desplegarlo
+
+
+5 Drivers en total: 2 para el robot principal 3 para simas. DRV8833
+
+BUCK, BOOST, regulador lineal
+
+BUCK gordo para la potencia porque con la bateria de 20 voltios interesa tener algo mas potenet
+
+
+Sensores:
+
+	Sensor de tiempo de vuelo para medir distancias, infrarojos arrays para simas, 
+	Sesor para la sima cantante lidar(tof aliexpress vl53L0X Arturo) statico 
+	Lidar low cost(opcional)
+	
+	Encoders tenemos 4 o 5
+	Acelerometros y brujula
+	
+	Sensor de final de carrera 
+	
+	
+Validación de la estrategia de movimiento y detección de objetos.
+
+
+	
+	
+	
+	
+	
+	
+	
