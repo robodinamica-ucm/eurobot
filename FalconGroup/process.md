@@ -135,11 +135,25 @@ El código está diseñado para permitir **aceleración progresiva**, logrando m
 			
 			latas a 300mm(ancho robot 22 cm). Giro a la derecha. Avanzamos hasta tener la pared frontal a 775mm o las latas a 650mm. Derecha, empujar. Retrocedemos 20cm. Giro a la izquierda. Avanzamos hasta las latas frontales. Giro izquierda. Avanzamos hasta la pared del aparcamiento(1700mm).
 			
-			
+
+- ~/Documents/1Robodinamica/eurobot/avances/eurobot/FalconGroup/mecanum-basic-movement8.ino						
 
 		2. Comprobar que estamos alineados con el tablero
-		3. Avanzar hasta el aparcamiento comprobando nuestro angulo en todo momento
-		4. Alinearnos usando la pared y asegurarnos que nos encontramos dentro del area
+			creamos correctOrientation() utilizando dos sensores TOF
+
+- ~/Documents/1Robodinamica/eurobot/avances/eurobot/FalconGroup/mecanum-basic-movement9.ino
+		Pasamos a usar ultrasonidos en vez de TOF
+		
+		
+		TODO FUNCIONA
+		
+- ~/Documents/1Robodinamica/eurobot/avances/eurobot/FalconGroup/mecanum-basic-movement10.ino		
+		Avanzar alineados con la pared
+		Asegurarnos el aparcamiento
+		
+		Version simetrica para la otra salida
+		
+		
 		
 	- Poner unos parametros claros al principio del programa que permitan su rapida configuracion en el momento
 	
